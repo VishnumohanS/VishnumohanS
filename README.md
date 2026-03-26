@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vishnu+Mohan;Full+Stack+Developer;MERN+Stack+Enthusiast;Python+Developer;Building+Real+World+Projects+🚀">
 </h1>
 
-<h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack | Python Enthusiast</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack |  </h3>
 
 ---
 

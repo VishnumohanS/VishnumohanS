@@ -7,9 +7,9 @@
 - 🎓 Student & Developer
 - 💻 Skilled in **React, MongoDB, Python, Java**
 - 🔥 Building real-world projects like:
-  - 🛂 Gate Pass Management System
+  - 🛂 Music Keynote Application
   - 🛒 MERN E-commerce Website
-  - 📊 Smart Driver Analytics
+  - 📊 House Price Prediction 
 - 🌱 Currently learning **Advanced MERN & System Design**
 - ⚡ Fun fact: I love solving real-world problems using code
 
@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 ### 💻 Languages
-- JavaScript | Python | Java | C++
+- JavaScript | Python  | C++
 
 ### 🌐 Frontend
 - React.js | HTML | CSS
@@ -38,24 +38,18 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+
 
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/vishnu-mohan-02487528b/
+- 📧 Email: vishnumohan.s2023cse@sece.ac.in
 
 ---
 
